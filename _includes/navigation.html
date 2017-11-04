@@ -1,0 +1,19 @@
+<nav class="main-nav">
+    {% if page.url != "/about/" %}
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}about">About</a></h3>
+    {% else %}
+            <h3 class="nav-link">About</h3>
+    {% endif %}
+
+    {% if page.url != "/music/" %}
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}music">Music</a></h3>
+    {% else %}
+            <h3 class="nav-link">Music</h3>
+    {% endif %}
+
+    {% if page.url != "/blog/" %}
+            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog">Blog</a></h3>
+    {% else %}
+            <h3 class="nav-link">Blog</h3>
+    {% endif %}
+</nav>
