@@ -11,6 +11,8 @@ profile: true
 
 In the summer of 2013, I heard one of [Daniel Kim](https://www.youtube.com/user/kimaginati0n)'s mashups and took a shot at making my own. It wasn't a huge success, but I went for it again and did a year-end mashup of 54 pop songs. Since then it's been a tradition for me to do annual year-end mashups.
 
+[Here](/billboard-vis) is a data visualization tool I made for [Billboard chart data](http://www.billboard.com/charts/hot-100).
+
 ## CHINESE YO-YO
 
 - [facebook.com/VertaxChineseYoyo](http://facebook.com/VertaxChineseYoyo/)
