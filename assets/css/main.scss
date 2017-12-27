@@ -1,3 +1,8 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
 @import 'normalize';
 @import 'syntax';
 @import 'variables';
@@ -40,6 +45,7 @@ blockquote {
 pre {
   padding: 1rem 2rem;
   overflow-x: auto;
+  white-space: pre-wrap;
 
   code {
     border: 0;
@@ -99,6 +105,7 @@ table tfoot td {
 
 .post, .article-page {
   background-color: #fff;
+  width: 100%;
 }
 
 ::-moz-selection {

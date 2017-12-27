@@ -1,5 +1,4 @@
 var gulp = require('gulp');
-var sass = require('gulp-sass');
 var prefix = require('gulp-autoprefixer');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
@@ -28,19 +27,6 @@ gulp.task('browser-sync', ['sass', 'img', 'jekyll-build'], function() {
         },
         notify: false
     });
-});
-
-// Compile files
-gulp.task('sass', function () {
-    return gulp.src('assets/css/scss/main.scss')
-        .pipe(sass({
-            outputStyle: 'expanded',
-            onError: browserSync.notify
-        }))
-        .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
-        .pipe(gulp.dest('_site/assets/css'))
-        .pipe(browserSync.reload({stream:true}))
-        .pipe(gulp.dest('assets/css'));
 });
 
 // Compression images

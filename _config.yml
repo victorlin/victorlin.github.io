@@ -22,6 +22,9 @@ plugins:
 paginate: 8
 paginate_path: "blog/page/:num"
 
+sass:
+    sass_dir: assets/css/scss
+
 analytics: UA-109654720-1
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
