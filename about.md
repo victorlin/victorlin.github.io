@@ -5,7 +5,7 @@ permalink: about/
 profile: true
 ---
 
-## MUSIC MASHUPS
+## MASHUPS
 
 - [youtube.com/c/VictorLin](https://youtube.com/c/VictorLin)
 
