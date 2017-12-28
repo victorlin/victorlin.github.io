@@ -3,7 +3,7 @@ layout: post
 title: Made in 2017 - Behind the Scenes
 date: 2017-12-27
 description: how I made my 2017 year-end mashup
-img: made-in-2017-thumb.png
+img: made-in-2017-thumb.jpg
 tags: [music, mashup, software]
 ---
 
@@ -43,7 +43,7 @@ What sucks is how boring but important this step is. I'll often find myself skip
 ## 2. Audio Compilation
 
 {% include image.html
-            img="assets/img/made-in-2017-logic.png"
+            img="assets/img/made-in-2017-logic.jpg"
             title="Made in 2017 Logic project"
             caption="mixing in Logic Pro (2:34 - 3:00 in the video)" %}
 
@@ -56,7 +56,7 @@ To get a feel of which songs go well together, I first load them all up in **dja
 The aim here is to find key/tempo combinations that work well for several songs. I like to use combinations that match at least one of the songs perfectly so I can use the original instrumental file without any modification. This involves a lot of trial and error, playing different combinations of songs on top of each other, and listening to the chord progressions.
 
 {% include image.html
-            img="assets/img/made-in-2017-notes.png"
+            img="assets/img/made-in-2017-notes.jpg"
             title="Made in 2017 planning notepad"
             caption="some planning on a digital notepad" %}
 
@@ -73,7 +73,7 @@ After the tracks are all lined up, the mix can sound muddy since each vocal was 
 ## 3. Video Compilation
 
 {% include image.html
-            img="assets/img/made-in-2017-fcpx.png"
+            img="assets/img/made-in-2017-fcpx.jpg"
             title="Made in 2017 FCPX project"
             caption="video editing in Final Cut Pro" %}
 
