@@ -20,6 +20,23 @@
       }
     }
   }
+
+  .item {
+    width: 48%;
+    max-width: 100%;
+    margin: 0 0.9% 1.5%;
+    flex-direction: column;
+
+    .item-content {
+      width: 100%;
+      .item-title {
+        margin: 0 0 5px;
+        a {
+          font-size: 21px;
+        }
+      }
+    }
+  }
 }
 
 /* Small Devices, Tablets */
@@ -83,6 +100,7 @@
   .content-box {
     padding: 10px;
   }
+
   .post {
     width: 98%;
     max-width: 100%;
@@ -96,6 +114,23 @@
     .post-content {
       width: 100%;
       .post-title {
+        margin: 0 0 5px;
+        a {
+          font-size: 21px;
+        }
+      }
+    }
+  }
+
+  .item {
+    width: 98%;
+    max-width: 100%;
+    margin: 2%;
+    flex-direction: column;
+
+    .item-content {
+      width: 100%;
+      .item-title {
         margin: 0 0 5px;
         a {
           font-size: 21px;

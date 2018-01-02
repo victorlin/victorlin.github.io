@@ -1,97 +1,17 @@
 ---
-layout: page
-title: Mashups
-permalink: mashups/
-profile: true
+layout: main
+permalink: /mashups/
 ---
 
-<div style="width: 100%; text-align:center">
-  <h2>Made in 2017</h2>
-  <div style="text-align:center; background-color:solid white; padding:24px 0px">
-    <iframe class="youtube-video" width="480" height="320" style="border: 6px solid white; border-radius: 2px; box-shadow: 0px 0px 12px gray;" src="https://www.youtube.com/embed/wQA59PXOguc?theme=dark&amp;wmode=transparent&quot; &amp;wmode=&quot;transparent" frameborder="0&quot; /&gt;"></iframe>
+{% assign items = site.mashups | sort: 'order_num' %}
+{% for item in items reversed %}
+<article class="item">
+  {% if item.img_thumb %}
+    <a class="item-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : item.img_thumb}})" href="{{item.url | prepend: site.baseurl}}"></a>
+  {% else %}
+  {% endif %}
+  <div class="item-content">
+    <h2 class="item-title"><a href="{{item.url | prepend: site.baseurl}}">{{item.title}}</a></h2>
   </div>
-</div>
-
-<hr>
-
-<div style="width: 100%; text-align:center">
-  <h2>Made in 2016</h2>
-  <div style="text-align:center; background-color:solid white; padding:24px 0px">
-    <iframe class="youtube-video" width="480" height="320" style="border: 6px solid white; border-radius: 2px; box-shadow: 0px 0px 12px gray;" src="https://www.youtube.com/embed/CGGBSZx12Cc?theme=dark&amp;wmode=transparent&quot; &amp;wmode=&quot;transparent" frameborder="0&quot; /&gt;"></iframe>
-  </div>
-</div>
-<div class="row">
-  <div class="span" style="width: 100%; text-align: center">
-    <p class="lead" style="max-width: 80%; display: inline-block;">
-      <a href="http://www.mediafire.com/file/pzph3o6goc6hhb8/Made+in+2016.mp3" target="_blank">Download</a>
-    </p>
-  </div>
-</div>
-
-<hr>
-
-<div style="width: 100%; text-align:center">
-  <h2>Made in 2015</h2>
-  <div style="text-align:center; background-color:solid white; padding:24px 0px">
-    <iframe class="youtube-video" width="480" height="320" style="border: 6px solid white; border-radius: 2px; box-shadow: 0px 0px 12px gray;" src="https://www.youtube.com/embed/_tR6WjQ47Qw?theme=dark&amp;wmode=transparent&quot; &amp;wmode=&quot;transparent" frameborder="0&quot; /&gt;"></iframe>
-  </div>
-</div>
-<div class="row">
-  <div class="span" style="width: 100%; text-align: center">
-    <p class="lead" style="max-width: 80%; display: inline-block;">
-      <a href="http://www.mediafire.com/download/aaify3ra8uyww8w/Made+in+2015.mp3" target="_blank">Download</a>
-      <br>
-      <a href="http://www.mediafire.com/download/kag2kv3xzyvpesv/Made+in+2015+%28Instrumental%29.mp3" target="_blank">Download (Instrumental)</a>
-    </p>
-  </div>
-</div>
-
-<hr>
-
-<div style="width: 100%; text-align:center">
-  <h2>Made in 2014</h2>
-  <div style="text-align:center; background-color:solid white; padding:24px 0px">
-    <iframe class="youtube-video" width="480" height="320" style="border: 6px solid white; border-radius: 2px; box-shadow: 0px 0px 12px gray;" src="https://www.youtube.com/embed/Cfw7eSbE_k4?theme=dark&amp;wmode=transparent&quot; &amp;wmode=&quot;transparent" frameborder="0&quot; /&gt;"></iframe>
-  </div>
-</div>
-<div class="row">
-  <div class="span" style="width: 100%; text-align: center">
-    <p class="lead" style="max-width: 80%; display: inline-block;">
-      <a href="http://www.mediafire.com/download/3okp8gh0kfqakem/Made_in_2014.mp3" target="_blank">Download</a>
-      <br>
-      <a href="http://www.mediafire.com/download/ph5k1d6d3f3d3rd/Made_in_2014_(Instrumental).mp3" target="_blank">Download (Instrumental)</a>
-    </p>
-  </div>
-</div>
-
-<hr>
-
-<div style="width: 100%; text-align: center">
-  <h2>[Mashup] 30+ Hit Songs from 2007-2014</h2>
-  <div style="text-align:center; background-color:solid white; padding:24px 0px">
-    <iframe class="youtube-video" width="480" height="320" style="border: 6px solid white; border-radius: 2px; box-shadow: 0px 0px 12px gray;" src="https://www.youtube.com/embed/DS2xsk2hzpM?theme=dark&amp;wmode=transparent&quot; &amp;wmode=&quot;transparent" frameborder="0&quot; /&gt;"></iframe>
-  </div>
-</div>
-<div class="row">
-  <div class="span" style="width: 100%; text-align: center">
-    <p class="lead" style="max-width: 80%; display: inline-block;">
-      <a href="http://www.mediafire.com/download/7uvdb3mo7s6ws4w/30+_Hit_Songs_from_2007-2014.mp3" target="_blank">Download</a>
-      <br>
-      <a href="http://www.mediafire.com/download/h9p72v2oxyc0a8q/30__Hit_Songs_from_2007-2014_(Instrumental).mp3" target="_blank">Download (Instrumental)</a>
-    </p>
-
-<hr>
-
-<div style="width: 100%; text-align: center">
-  <h2>Made in 2013</h2>
-  <div style="text-align:center; background-color:solid white; padding:24px 0px">
-    <iframe class="youtube-video" width="480" height="320" style="border: 6px solid white; border-radius: 2px; box-shadow: 0px 0px 12px gray;" src="https://www.youtube.com/embed/9lwkMQOjzo0?theme=dark&amp;wmode=transparent&quot; &amp;wmode=&quot;transparent" frameborder="0&quot; /&gt;"></iframe>
-  </div>
-</div>
-<div class="row">
-  <div class="span" style="width: 100%; text-align: center">
-    <p class="lead" style="max-width: 80%; display: inline-block;">
-      <a href="http://www.mediafire.com/download/toeyx4er3ma2zi5/Made_in_2013.mp3" target="_blank">Download</a>
-    </p>
-  </div>
-</div>
+</article>
+{% endfor %}
