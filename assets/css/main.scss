@@ -127,6 +127,17 @@ table tfoot td {
   clear: both;
 }
 
+a {
+  color: $blue;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  a {
+    color: $dark;
+  }
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
 
