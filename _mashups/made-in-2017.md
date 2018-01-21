@@ -11,6 +11,7 @@ img_thumb: made-in-2017-thumb.jpg
   <iframe class="youtube-video" width="480" height="320" src="https://www.youtube.com/embed/wQA59PXOguc?theme=dark&wmode=transparent"></iframe>
 </div>
 
+- [Behind the scenes blog post](/mashups/made-in-2017/behind-the-scenes)
 - [SoundCloud](https://soundcloud.com/victorlin/made-in-2017)
 - [Download](http://www.mediafire.com/file/xszhqgdel1unnel/Made+in+2017.mp3)
 - [Download (Instrumental)](http://www.mediafire.com/file/6y8lz52r0g4dnf2/Made+in+2017+%28Instrumental%29.mp3)

@@ -7,7 +7,7 @@ img: png/csv-example.png
 tags: [productivity, software]
 ---
 
-The CSV file format is often used to store and share tabular data. A CSV file is simply plain text, which makes it easy to share across applications and platforms.
+The comma-separated values (CSV) file format is often used to store and share tabular data. A CSV file is simply plain text, which makes it easy to share across applications and platforms.
 
 **Microsoft Excel** and Apple's **Numbers** can open these files as a spreadsheet. However, there are times when all you need is a quick and simple read-only option.
 

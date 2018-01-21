@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Made in 2017 - Behind the Scenes
-permalink: mashups/made-in-2017/behind-the-scenes
+permalink: /mashups/made-in-2017/behind-the-scenes
 date: 2017-12-27
 description: how I made my 2017 year-end mashup
 img: made-in-2017-full.jpg
