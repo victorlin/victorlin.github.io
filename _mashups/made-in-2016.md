@@ -11,7 +11,7 @@ img_thumb: made-in-2016-thumb.jpg
   <iframe class="youtube-video" width="480" height="320" src="https://www.youtube.com/embed/CGGBSZx12Cc?theme=dark&wmode=transparent"></iframe>
 </div>
 
-- [Download](http://www.mediafire.com/file/pzph3o6goc6hhb8/Made+in+2016.mp3)
+- [Download](http://www.mediafire.com/file/djj4y9nvx6yhabs/Made+in+2016+%5Bremastered%5D.mp3)
 - [Tracklist](#tracklist)
 
 ## Tracklist
