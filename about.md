@@ -3,16 +3,27 @@ layout: page
 title: About
 ---
 
+- Computer Science and Statistics student
+- Python enthusiast
+- Mashup artist
+- Diabolo performer
+- iPhone repair freelancer
+
 ## MASHUPS
 
-### [<i class="fa fa-youtube-play" aria-hidden="true"></i>](https://youtube.com/VictorLin)&nbsp;&nbsp;[<i class="fa fa-soundcloud" aria-hidden="true"></i>](https://soundcloud.com/victorlin)&nbsp;&nbsp;[<i class="fa fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VictorLinMashups)
+I deconstruct modern pop songs and blend them together.
 
-In the summer of 2013, I heard one of [Daniel Kim](https://www.youtube.com/user/kimaginati0n)'s mashups and took a shot at making my own. It wasn't a huge success, but I went for it again and made a [2013 year-end mashup](/mashups/made-in-2013). Since then it's been a tradition for me to create annual year-end mashups.
+### [<i class="fa fa-youtube-play" aria-hidden="true"></i>](https://youtube.com/VictorLin)&nbsp;&nbsp;[<i class="fa fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VictorLinMashups)&nbsp;&nbsp;[<i class="fa fa-soundcloud" aria-hidden="true"></i>](https://soundcloud.com/victorlin)
 
-[Here](/billboard-vis) is a data visualization tool I am making for [Billboard chart data](http://www.billboard.com/charts/hot-100). Many of the comments on my videos follow a format of *"where's [insert song name]???"*. Hopefully this tool will help with the song selection process.
+- YouTube videos with millions of views
+- [Hot 100 rankings visualizer (2017)](/billboard-vis) : data visualization tool for weekly Hot 100 charts on [Billboard](http://www.billboard.com/charts/hot-100). Used for music popularity analysis during mashup production.
 
-## CHINESE YO-YO
+## VERTAX PERFORMANCE GROUP
+
+I co-founded and currently lead a Chinese yo-yo (diabolo) performance group at University of Florida.
 
 ### [<i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fa fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxChineseYoyo)
 
-Growing up, I learned Chinese yo-yo at a local Chinese school. In my first semester of college, I found a few other students who did it as a group at their high school. Now we're a performance group putting on shows to audiences in the hundreds. We've also started a Chinese yo-yo club at the school for people who are interested in learning.
+- Paid to perform across school campus
+- 2018 UF VISA Talent Show: 1st Place ([video](https://youtu.be/YUNdW2thldw))
+- Chinese yo-yo instructors at Huagen Chinese School
