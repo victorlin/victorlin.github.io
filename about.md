@@ -9,6 +9,8 @@ title: About
 - Diabolo performer
 - iPhone repair freelancer
 
+[<i class="fa fa-file-text" aria-hidden="true"></i> Resume](/victorlin-resume.pdf)
+
 ## MASHUPS
 
 I deconstruct modern pop songs and blend them together.
