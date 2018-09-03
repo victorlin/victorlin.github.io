@@ -7,6 +7,7 @@ title: About
 - Python enthusiast
 - Mashup artist
 - Diabolo performer
+- Video production freelancer
 - iPhone repair freelancer
 
 [<i class="fa fa-file-text" aria-hidden="true"></i> Resume](/victorlin-resume.pdf)
@@ -20,9 +21,9 @@ I deconstruct modern pop songs and blend them together.
 - YouTube videos with millions of views
 - [Hot 100 rankings visualizer (2017)](/billboard-vis) : data visualization tool for weekly Hot 100 charts on [Billboard](http://www.billboard.com/charts/hot-100). Used for music popularity analysis during mashup production.
 
-## VERTAX PERFORMANCE GROUP
+## VERTAX DIABOLO PERFORMANCE GROUP
 
-I co-founded and currently lead a Chinese yo-yo (diabolo) performance group at University of Florida.
+I co-founded and currently lead a diabolo (Chinese yo-yo) performance group at the University of Florida.
 
 ### [<i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fa fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxChineseYoyo)
 
