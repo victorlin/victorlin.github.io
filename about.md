@@ -23,9 +23,9 @@ I deconstruct modern pop songs and blend them together.
 
 ## VERTAX DIABOLO PERFORMANCE GROUP
 
-I co-founded and currently lead a diabolo (Chinese yo-yo) performance group at the University of Florida.
+I co-founded a diabolo (Chinese yo-yo) performance group at the University of Florida.
 
-### [<i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fa fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxChineseYoyo)
+### [<i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fa fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxDiabolo)
 
 - Paid to perform across school campus
 - 2018 UF VISA Talent Show: 1st Place ([video](https://youtu.be/YUNdW2thldw))
