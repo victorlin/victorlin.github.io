@@ -26,6 +26,9 @@
       {% if site.email %}
         <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
       {% endif %}
+      {% if site.google_scholar %}
+        <li class="google_scholar"><a href="https://scholar.google.com/citations?user={{site.google_scholar}}" target="_blank"><i class="fa fa-user-graduate"></i></a></li>
+      {% endif %}
     </ul>
   </section> <!-- End Section Contact -->
   <div class="copyright">
