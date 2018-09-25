@@ -10,8 +10,6 @@ title: About
 - Video production freelancer
 - iPhone repair freelancer
 
-[<i class="fa fa-file-alt" aria-hidden="true"></i> Resume](/victorlin-resume.pdf)
-
 ## MASHUPS
 
 I deconstruct modern pop songs and blend them together.
