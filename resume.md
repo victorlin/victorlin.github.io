@@ -54,6 +54,11 @@ University of Florida, GPA 3.82/4.0
 - [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website<br>
 - [**gainesvillechineseschool.com**](https://gainesvillechineseschool.com) – Gainesville Chinese School official website
 
+## AWARDS
+
+**1<sup>st</sup> Place**, SASEhack Kaizen CTF<span style="float:right;">Oct 2018</span><br>
+Placed 1<sup>st</sup> of 35 hackers in Kaizen Capture-the-Flag event sponsored by Booz Allen Hamilton
+
 ## LEADERSHIP
 
 **Co-founder, Co-captain, Choreographer**<span style="float:right;">Sep 2015 – Present</span><br>
