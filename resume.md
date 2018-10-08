@@ -21,21 +21,21 @@ University of Florida, GPA 3.82/4.0
 **Research Assistant**<span style="float:right;">May 2016 – Present</span><br>
 [Lab of Dr. Lei Zhou](http://mgm.ufl.edu/faculty/faculty-home-pages/zhou-lei/), University of Florida
 
-- Determined functionality of 8 significantly mutated genes in Small Cell Lung Cancer
-- Analyzed and visualized genomic data of 11 fly strains using Python and R
 - Created a Python package to parse and extract taxonomy data from hundreds of protein sequences in an object-oriented fashion
+- Determined functionality of 8 significantly mutated genes in Small Cell Lung Cancer
+- Applied machine learning models and visualizations on thousands of genomic data entires
 
 **Teaching Assistant**<span style="float:right;">Sep 2017 – Dec 2017</span><br>
 [EML 6934 (Python Programming)](https://github.com/cjekel/Introduction-to-Python-Numerical-Analysis-for-Engineers-and-Scientist), University of Florida
 
-- Assisted instructor in structuring a new course with 30+ graduate students
+- Worked with instructor in structuring a new course with 30+ graduate students
 - Covered Python basics, NumPy, pandas, Matplotlib, SciPy, scikit-learn
 
 **Research Intern**<span style="float:right;">Jun 2017 – Aug 2017</span><br>
 [U.S. Army Research Laboratory](http://www.arl.army.mil), Adelphi, MD
 
-- Facilitated development of efficient wideband power amplifiers for on-field transmitters
 - Developed Python script to parse data files and perform complex calculations to determine circuit design efficiency
+- Facilitated development of efficient wideband power amplifiers for on-field transmitters
 - Nominated by branch chief as outstanding intern for ARL fellowship
 
 **Software Engineering/IT Intern**<span style="float:right;">Jul 2015 – Jan 2017</span><br>
@@ -57,15 +57,16 @@ University of Florida, GPA 3.82/4.0
 ## AWARDS
 
 **1<sup>st</sup> Place**, SASEhack Kaizen CTF<span style="float:right;">Oct 2018</span><br>
-Placed 1<sup>st</sup> of 35 hackers in Kaizen Capture-the-Flag event sponsored by Booz Allen Hamilton
+Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style information security competition
 
 ## LEADERSHIP
 
 **Co-founder, Co-captain, Choreographer**<span style="float:right;">Sep 2015 – Present</span><br>
 [Vertax Diabolo Performance Group](https://facebook.com/VertaxDiabolo)
 
-- Performed at 20+ events with audiences numbering in the several hundreds • Awarded first place at 2018 VISA Talent Show
-- Head Chinese yo-yo instructor for Huagen Chinese School
+- Performed at 20+ events with audiences numbering in the several hundreds
+- Awarded 1<sup>st</sup> Place at 2018 VISA Talent Show
+- Head Chinese yo-yo instructor of 15 students at Huagen Chinese School
 
 **Instructor, School Coordinator**<span style="float:right;">Jan 2018 – Apr 2018</span><br>
 [UF Teaching Youth Programming Essentials](https://cise.ufl.edu/dept/type/)
