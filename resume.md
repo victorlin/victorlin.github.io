@@ -47,11 +47,12 @@ University of Florida, GPA 3.82/4.0
 
 ## PROJECTS
 
-- [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data<br>
-- [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database<br>
-- [**billboard-vis**](/billboard-vis) – Ranking visualization tool for Billboard Hot 100 charts<br>
-- [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website<br>
-- [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website<br>
+- [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
+- [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
+- [**billboard-vis**](/billboard-vis) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
+- [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website
+- [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
+- [**vertaxdiabolo.com**](https://vertaxdiabolo.com) - Vertax Diabolo Performance Group website [[source]](https://github.com/victorlin/vertax-site)
 - [**gainesvillechineseschool.com**](https://gainesvillechineseschool.com) – Gainesville Chinese School official website
 
 ## AWARDS
@@ -62,7 +63,7 @@ Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style informati
 ## LEADERSHIP
 
 **Co-founder, Co-captain, Choreographer**<span style="float:right;">Sep 2015 – Present</span><br>
-[Vertax Diabolo Performance Group](https://facebook.com/VertaxDiabolo)
+[Vertax Diabolo Performance Group](https://vertaxdiabolo.com)
 
 - Performed at 20+ events with audiences numbering in the several hundreds
 - Awarded 1<sup>st</sup> Place at 2018 VISA Talent Show

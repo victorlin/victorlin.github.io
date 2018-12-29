@@ -23,7 +23,7 @@ I deconstruct modern pop songs and blend them together.
 
 I co-founded a diabolo (Chinese yo-yo) performance group at the University of Florida.
 
-### [<i class="fab fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fab fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxDiabolo)
+### [<i class="fas fa-globe" area-hidden="true"></i>](https://vertaxdiabolo.com) [<i class="fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/channel/UC29FE52c8_bEpfbHcmsx-Kw)&nbsp;&nbsp;[<i class="fab fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VertaxDiabolo)
 
 - Paid to perform across school campus
 - 2018 UF VISA Talent Show: 1st Place ([video](https://youtu.be/YUNdW2thldw))
