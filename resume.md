@@ -49,6 +49,7 @@ University of Florida, GPA 3.82/4.0
 
 - [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
 - [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
+- [**H4CK-END**](/hack-end) – Interactive back-end workshop with problems and solutions.
 - [**billboard-vis**](/billboard-vis) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
 - [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website
 - [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
@@ -68,6 +69,13 @@ Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style informati
 - Performed at 20+ events with audiences numbering in the several hundreds
 - Awarded 1<sup>st</sup> Place at 2018 VISA Talent Show
 - Head Chinese yo-yo instructor of 15 students at Huagen Chinese School
+
+**Workshop Lead, Mentor**<span style="float:right;">Jan 2019</span><br>
+[SwampHacks 2019](https://2019.swamphacks.com)
+
+- Hosted a workshop on back-end development using Python + Flask with ~50 participants
+- Served as mentor for SwampHacks 2017, 2018, and 2019
+- Guided students on using Python, HTML, CSS, and JavaScript for their full-stack needs
 
 **Instructor, School Coordinator**<span style="float:right;">Jan 2018 – Apr 2018</span><br>
 [UF Teaching Youth Programming Essentials](https://cise.ufl.edu/dept/type/)
