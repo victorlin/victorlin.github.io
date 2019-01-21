@@ -19,7 +19,7 @@ University of Florida, GPA 3.82/4.0
 ## INDUSTRY & RESEARCH EXPERIENCE
 
 **Research Assistant**<span style="float:right;">May 2016 – Present</span><br>
-[Lab of Dr. Lei Zhou](http://mgm.ufl.edu/faculty/faculty-home-pages/zhou-lei/), University of Florida
+[Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
 
 - Created a Python package to parse and extract taxonomy data from hundreds of protein sequences in an object-oriented fashion
 - Determined functionality of 8 significantly mutated genes in Small Cell Lung Cancer
@@ -34,7 +34,7 @@ University of Florida, GPA 3.82/4.0
 **Research Intern**<span style="float:right;">Jun 2017 – Aug 2017</span><br>
 [U.S. Army Research Laboratory](http://www.arl.army.mil), Adelphi, MD
 
-- Developed Python script to parse data files and perform complex calculations to determine circuit design efficiency
+- Developed Python script to parse data files and determine circuit design efficiency
 - Facilitated development of efficient wideband power amplifiers for on-field transmitters
 - Nominated by branch chief as outstanding intern for ARL fellowship
 
@@ -49,11 +49,12 @@ University of Florida, GPA 3.82/4.0
 
 - [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
 - [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
-- [**H4CK-END**](/hack-end) – Interactive back-end workshop with problems and solutions.
+- [**H4CK-END**](/hack-end) – Interactive back-end workshop with problems and solutions
 - [**billboard-vis**](/billboard-vis) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
 - [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website
 - [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
 - [**vertaxdiabolo.com**](https://vertaxdiabolo.com) - Vertax Diabolo Performance Group website [[source]](https://github.com/victorlin/vertax-site)
+- [**zhoulab.us**](https://zhoulab.us) - Zhou Lab group website [[source]](https://github.com/zhoulab/zhoulab.github.io)
 - [**gainesvillechineseschool.com**](https://gainesvillechineseschool.com) – Gainesville Chinese School official website
 
 ## AWARDS
@@ -70,12 +71,11 @@ Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style informati
 - Awarded 1<sup>st</sup> Place at 2018 VISA Talent Show
 - Head Chinese yo-yo instructor of 15 students at Huagen Chinese School
 
-**Workshop Lead, Mentor**<span style="float:right;">Jan 2019</span><br>
-[SwampHacks 2019](https://2019.swamphacks.com)
+**Workshop Lead, Mentor**<span style="float:right;">Jan 2017 – Jan 2019</span><br>
+[SwampHacks 2017, 2018, 2019](https://2019.swamphacks.com)
 
-- Hosted a workshop on back-end development using Python + Flask with ~50 participants
-- Served as mentor for SwampHacks 2017, 2018, and 2019
-- Guided students on using Python, HTML, CSS, and JavaScript for their full-stack needs
+- Hosted workshop on back-end development using Python+Flask with ~50 attendees (2019)
+- Guided project groups on using Python, HTML, CSS, and JavaScript (2017, 2018, 2019)
 
 **Instructor, School Coordinator**<span style="float:right;">Jan 2018 – Apr 2018</span><br>
 [UF Teaching Youth Programming Essentials](https://cise.ufl.edu/dept/type/)
