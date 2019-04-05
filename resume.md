@@ -49,8 +49,8 @@ University of Florida, GPA 3.82/4.0
 
 - [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
 - [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
-- [**H4CK-END**](/hack-end) – Interactive back-end workshop with problems and solutions
-- [**billboard-vis**](/billboard-vis) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
+- [**H4CK-END**](/hack-end/) – Interactive back-end workshop with problems and solutions
+- [**billboard-vis**](/billboard-vis/) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
 - [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website
 - [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
 - [**vertaxdiabolo.com**](https://vertaxdiabolo.com) - Vertax Diabolo Performance Group website [[source]](https://github.com/victorlin/vertax-site)
