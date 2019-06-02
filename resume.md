@@ -9,7 +9,7 @@ title: Resume
 
 **Bachelor of Science, Computer Science**<span style="float:right;">Aug 2015 – May 2019</span><br>
 **Bachelor of Arts, Statistics**<br>
-University of Florida, GPA 3.82/4.0
+University of Florida, GPA 3.84/4.0
 
 ## SKILLS
 
