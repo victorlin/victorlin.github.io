@@ -13,16 +13,22 @@ University of Florida, GPA 3.84/4.0
 
 ## SKILLS
 
-*Languages*: Python, Bash, JavaScript, HTML, [S]CSS, Java, C/C++, SQL, VB.NET, R, LaTeX<br>
+*Languages*: Python, Bash, C#, JavaScript, HTML, [S]CSS, Java, C++, SQL, .NET, R, LaTeX<br>
 *Frameworks/tools*: Git, make, Flask, pandas, scikit-learn, Matplotlib, AngularJS, MongoDB
 
 ## INDUSTRY & RESEARCH EXPERIENCE
 
-**Research Assistant**<span style="float:right;">May 2016 – Present</span><br>
+**Software Engineer**<span style="float:right;">Aug 2019 – Present</span><br>
+[Microsoft](https://www.microsoft.com), Redmond, WA
+
+- Team: Microsoft Security Response Center (MSRC) Incident Response engineering group
+- Created Windows service using internal tools to collect/query Event Tracing for Windows (ETW) data and upload to Kusto database efficiently at thousands of events per second
+
+**Bioinformatics Research Assistant**<span style="float:right;">May 2016 – Aug 2019</span><br>
 [Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
 
+- Identified significant mutation patterns in p53 pathway using dataset of 70m+ genome-wide mutations
 - Created a Python package to parse and extract taxonomy data from hundreds of protein sequences in an object-oriented fashion
-- Determined functionality of 8 significantly mutated genes in Small Cell Lung Cancer
 - Applied machine learning models and visualizations on thousands of genomic data entires
 
 **Teaching Assistant**<span style="float:right;">Sep 2017 – Dec 2017</span><br>
@@ -41,7 +47,7 @@ University of Florida, GPA 3.84/4.0
 **Software Engineering/IT Intern**<span style="float:right;">Jul 2015 – Jan 2017</span><br>
 [Acceleration.net](https://www.acceleration.net), Gainesville, FL
 
-- Designed Flask web application for TFTP router backup process to facilitate management of 30+ offsite devices
+- Designed Flask web app for device backup to facilitate management of 30+ offsite devices
 - Managed 10+ client websites using WordPress and Linux command line
 - Utilized Git and Trac to coordinate efforts with co-workers
 
@@ -64,7 +70,7 @@ Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style informati
 
 ## LEADERSHIP
 
-**Co-founder, Co-captain, Choreographer**<span style="float:right;">Sep 2015 – Present</span><br>
+**Co-founder, Co-captain, Choreographer**<span style="float:right;">Sep 2015 – May 2019</span><br>
 [Vertax Diabolo Performance Group](https://vertaxdiabolo.com)
 
 - Performed at 20+ events with audiences numbering in the several hundreds
