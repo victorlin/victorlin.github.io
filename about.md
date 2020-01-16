@@ -3,16 +3,24 @@ layout: page
 title: About
 ---
 
-- Computer Science and Statistics student
+- Security Software Engineer at Microsoft
+- Computer Science and Statistics undergraduate
 - Python enthusiast
-- Mashup artist
+- Former mashup artist
 - Diabolo performer
 - Video production freelancer
 - iPhone repair freelancer
 
+## VIDEOS
+
+I like to make [videos](/videos).
+
+- Equipment: GoPro Karma Drone+Grip, GoPro HERO6 Black, Canon EOS Rebel T3i
+- Software: Final Cut Pro X
+
 ## MASHUPS
 
-I deconstruct modern pop songs and blend them together.
+I (used to) deconstruct modern pop songs and blend them together into [mashups](/mashups).
 
 ### [<i class="fab fa-youtube" aria-hidden="true"></i>](https://youtube.com/VictorLin)&nbsp;&nbsp;[<i class="fab fa-facebook-square" aria-hidden="true"></i>](https://facebook.com/VictorLinMashups)&nbsp;&nbsp;[<i class="fab fa-soundcloud" aria-hidden="true"></i>](https://soundcloud.com/victorlin)
 
