@@ -5,24 +5,24 @@ title: Resume
 
 [<i class="fa fa-file-alt" aria-hidden="true"></i> PDF](/victorlin-resume.pdf)
 
+## SKILLS
+
+*Languages*: Python, Bash, C#, JavaScript, HTML, [S]CSS, Java, C++, SQL, .NET, R, LaTeX<br>
+*Frameworks/tools*: Git, ReactJS, D3.js, Flask, pandas, scikit-learn, Matplotlib, AngularJS<br>
+*Cloud services*: Azure (App Service, WebJobs, KeyVault, ARM templating), AWS (Elastic Beanstalk, CodePipeline, Amplify)
+
 ## EDUCATION
 
 **Bachelor of Science, Computer Science**<span style="float:right;">Aug 2015 – May 2019</span><br>
 **Bachelor of Arts, Statistics**<br>
 University of Florida, GPA 3.84/4.0
 
-## SKILLS
-
-*Languages*: Python, Bash, C#, JavaScript, HTML, [S]CSS, Java, C++, SQL, .NET, R, LaTeX<br>
-*Frameworks/tools*: Git, make, Flask, pandas, scikit-learn, Matplotlib, AngularJS, MongoDB
-
 ## INDUSTRY & RESEARCH EXPERIENCE
 
 **Software Engineer**<span style="float:right;">Aug 2019 – Present</span><br>
 [Microsoft](https://www.microsoft.com), Redmond, WA
 
-- Team: Microsoft Security Response Center (MSRC) Incident Response engineering group
-- Created Windows service using internal tools to collect/query Event Tracing for Windows (ETW) data and upload to Kusto database efficiently at thousands of events per second
+- Team: Microsoft Security Response Center (MSRC)
 
 **Bioinformatics Research Assistant**<span style="float:right;">May 2016 – Aug 2019</span><br>
 [Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
@@ -44,7 +44,7 @@ University of Florida, GPA 3.84/4.0
 - Facilitated development of efficient wideband power amplifiers for on-field transmitters
 - Nominated by branch chief as outstanding intern for ARL fellowship
 
-**Software Engineering/IT Intern**<span style="float:right;">Jul 2015 – Jan 2017</span><br>
+**Software Development/IT Intern**<span style="float:right;">Jul 2015 – Jan 2017</span><br>
 [Acceleration.net](https://www.acceleration.net), Gainesville, FL
 
 - Designed Flask web app for device backup to facilitate management of 30+ offsite devices
@@ -53,6 +53,7 @@ University of Florida, GPA 3.84/4.0
 
 ## PROJECTS
 
+- [**serratus.io**](https://serratus.io) – Front-facing website for ongoing coronavirus homology search effort [[source]](https://github.com/serratus-bio/serratus.io)
 - [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
 - [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
 - [**H4CK-END**](/hack-end/) – Interactive back-end workshop with problems and solutions
@@ -61,7 +62,6 @@ University of Florida, GPA 3.84/4.0
 - [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
 - [**vertaxdiabolo.com**](https://vertaxdiabolo.com) - Vertax Diabolo Performance Group website [[source]](https://github.com/victorlin/vertax-site)
 - [**zhoulab.us**](https://zhoulab.us) - Zhou Lab group website [[source]](https://github.com/zhoulab/zhoulab.github.io)
-- [**gainesvillechineseschool.com**](https://gainesvillechineseschool.com) – Gainesville Chinese School official website
 
 ## AWARDS
 

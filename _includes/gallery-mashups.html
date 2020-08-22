@@ -1,10 +1,4 @@
----
-layout: main
-title: Videos
-permalink: /videos/
----
-
-{% assign items = site.videos | sort: 'order_num' %}
+{% assign items = site.mashups | sort: 'order_num' %}
 {% for item in items reversed %}
 <article class="item">
   {% if item.img_thumb %}

@@ -11,18 +11,6 @@
             <h3 class="nav-link">Resume</h3>
     {% endif %}
 
-    {% if page.url != "/videos/" %}
-            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}videos/">Videos</a></h3>
-    {% else %}
-            <h3 class="nav-link">Videos</h3>
-    {% endif %}
-
-    {% if page.url != "/mashups/" %}
-            <h3 class="nav-link"><a href="{{ "/" | relative_url  }}mashups/">Mashups</a></h3>
-    {% else %}
-            <h3 class="nav-link">Mashups</h3>
-    {% endif %}
-
     {% if page.url != "/blog/" %}
             <h3 class="nav-link"><a href="{{ "/" | relative_url  }}blog/">Blog</a></h3>
     {% else %}
