@@ -7,14 +7,14 @@ title: Resume
 
 ## SKILLS
 
-*Languages*: Python, Bash, C#, JavaScript, HTML, [S]CSS, Java, C++, SQL, .NET, R, LaTeX<br>
-*Frameworks/tools*: Git, ReactJS, D3.js, Flask, pandas, scikit-learn, Matplotlib, AngularJS<br>
-*Cloud services*: Azure (App Service, WebJobs, KeyVault, ARM templating), AWS (Elastic Beanstalk, CodePipeline, Amplify)
+*Languages*: Python, Bash, C#, PowerShell, JavaScript, TypeScript, HTML, CSS, SQL, .NET, R, LaTeX<br>
+*Frameworks/tools*: Git, React.js, D3.js, Flask, pandas, sqlalchemy<br>
+*Cloud services*: Azure (App Service, WebJobs, Key vault, ARM templates), AWS (Lambda, S3, RDS/Aurora, Athena, Elastic Beanstalk, CodePipeline, Amplify)
 
 ## EDUCATION
 
-**Bachelor of Science, Computer Science**<span style="float:right;">Aug 2015 – May 2019</span><br>
-**Bachelor of Arts, Statistics**<br>
+**B.S. Computer Science**<span style="float:right;">Aug 2015 – May 2019</span><br>
+**B.A. Statistics**<br>
 University of Florida, GPA 3.84/4.0
 
 ## INDUSTRY & RESEARCH EXPERIENCE
@@ -22,7 +22,20 @@ University of Florida, GPA 3.84/4.0
 **Software Engineer**<span style="float:right;">Aug 2019 – Present</span><br>
 [Microsoft](https://www.microsoft.com), Redmond, WA
 
-- Team: Microsoft Security Response Center (MSRC)
+- Team: Microsoft Security Response Center (MSRC) Engineering - provides internal tooling for security analysts to fight digital threats to our company
+- Developed proof-of-concept real-time query service on Event Tracing for Windows (ETW) logs
+- Spearheaded deployment of 10+ Azure resources to various clouds in line with standards for the JEDI customer
+- Implemented parser/converter translating 100+ production-level automation workflows from JSON to PowerShell script for a next-generation workflow engine
+- Mitigated/resolved customer issues with our services during weekly on-call rotation
+
+**Contributor**<span style="float:right;">March 2020 – Present</span><br>
+[Serratus](https://serratus.io)
+
+- Designed+developed [serratus.io](https://serratus.io), a web interface to explore earth's viruses based on petabase-scale sequencing results
+- Built ~70GB database of analysis results for public consumption using a parallelized AWS Lambda ingestion approach
+- Extracted geospatial info from all 16m+ BioSample submissions to create an interactive map at [serratus.io/geo](https://serratus.io/geo)
+- Created Flask API for connecting database to website
+- Implemented code checks on 4 git repositories via GitHub Actions; automated deployments for website and API
 
 **Bioinformatics Research Assistant**<span style="float:right;">May 2016 – Aug 2019</span><br>
 [Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
@@ -53,15 +66,12 @@ University of Florida, GPA 3.84/4.0
 
 ## PROJECTS
 
-- [**serratus.io**](https://serratus.io) – Front-facing website for ongoing coronavirus homology search effort [[source]](https://github.com/serratus-bio/serratus.io)
+- [**serratus.io**](https://serratus.io) – Open-source, open-access project to uncover earth's viruses via cloud computing
+- [**serratus-summary-api**](https://github.com/serratus-bio/serratus-summary-api) – Serve Serratus summary data via a public API
+- [**serratus-summary-uploader**](https://github.com/serratus-bio/serratus-summary-uploader) – Parallelized parse+upload of Serratus files via AWS Lambda
+- [**biosample-sql**](https://github.com/serratus-bio/biosample-sql) – Extract geospatial metadata from BioSample XML, upload to public DB
 - [**p53-chip-seq-data**](https://github.com/zhoulab/p53-chip-seq-data) – Machine learning and visualizations of lab-generated genomic data
 - [**uniprot-taxonomy**](https://github.com/zhoulab/uniprot-taxonomy) – Python library for extracting taxonomy information from UniProt database
-- [**H4CK-END**](/hack-end/) – Interactive back-end workshop with problems and solutions
-- [**billboard-vis**](/billboard-vis/) – Ranking visualization tool for Billboard Hot 100 charts [[source]](https://github.com/victorlin/billboard-vis)
-- [**ufsase.com**](http://ufsase.com) – Society of Asian Scientists and Engineers, UF Chapter official website
-- [**rc.ufsase.com**](http://rc.ufsase.com) – 2016 SASE Southeast Regional Conference official website
-- [**vertaxdiabolo.com**](https://vertaxdiabolo.com) - Vertax Diabolo Performance Group website [[source]](https://github.com/victorlin/vertax-site)
-- [**zhoulab.us**](https://zhoulab.us) - Zhou Lab group website [[source]](https://github.com/zhoulab/zhoulab.github.io)
 
 ## AWARDS
 
@@ -83,13 +93,12 @@ Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style informati
 - Hosted workshop on back-end development using Python+Flask with ~50 attendees (2019)
 - Guided project groups on using Python, HTML, CSS, and JavaScript (2017, 2018, 2019)
 
-**Instructor, School Coordinator**<span style="float:right;">Jan 2018 – Apr 2018</span><br>
-[UF Teaching Youth Programming Essentials](https://cise.ufl.edu/dept/type/)
-
-- Coordinated weekly tutoring sessions amongst 5 tutors at Buchholz High School
-- Taught students programming fundamentals and basic JavaScript
-
 ## PUBLICATIONS
 
-Varsha Sundaresan, **Victor T. Lin**, Faming Liang, Frederic J. Kaye, Reika Kawabata-Iwakawa, Kouya Shiraishi, Takashi Kohno, Jun Yokota, Lei Zhou.<br>
+Sundaresan, V., **Lin, V.**, Liang, F., ...<br>
 *[Significantly Mutated Genes and Regulatory Pathways in SCLC – A Meta-analysis](https://www.sciencedirect.com/science/article/pii/S2210776217302247)*. Cancer Genetics. 2017.
+
+## PREPRINTS
+
+Edgar, R. C., Taylor, J., **Lin, V.**, ...<br>
+*[Petabase-scale sequence alignment catalyses viral discovery](https://www.biorxiv.org/content/10.1101/2020.08.07.241729v2)*. bioRxiv. 2021.
