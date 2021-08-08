@@ -7,9 +7,9 @@ title: Resume
 
 ## SKILLS
 
-*Languages*: Python, Bash, C#, PowerShell, JavaScript, TypeScript, HTML, CSS, SQL, .NET, R, LaTeX<br>
+*Languages*: Python, C#, JavaScript/TypeScript, PowerShell, HTML, CSS, SQL, Bash, .NET, R<br>
 *Frameworks/tools*: Git, React.js, D3.js, Flask, pandas, sqlalchemy<br>
-*Cloud services*: Azure (App Service, WebJobs, Key vault, ARM templates), AWS (Lambda, S3, RDS/Aurora, Athena, Elastic Beanstalk, CodePipeline, Amplify)
+*Cloud services*: Azure (Data Explorer, App Service, ARM templates), AWS (Lambda, S3, RDS/Aurora, Athena, Elastic Beanstalk, CodePipeline, Amplify)
 
 ## EDUCATION
 
@@ -23,19 +23,20 @@ University of Florida, GPA 3.84/4.0
 [Microsoft](https://www.microsoft.com), Redmond, WA
 
 - Team: Microsoft Security Response Center (MSRC) Engineering - provides internal tooling for security analysts to fight digital threats to our company
-- Developed proof-of-concept real-time query service on Event Tracing for Windows (ETW) logs
 - Spearheaded deployment of 10+ Azure resources to various clouds in line with standards for the JEDI customer
 - Implemented parser/converter translating 100+ production-level automation workflows from JSON to PowerShell script for a next-generation workflow engine
 - Mitigated/resolved customer issues with our services during weekly on-call rotation
+- Authored/organized user guides and internal team documentation (TSGs, SOPs) in Markdown format
 
 **Contributor**<span style="float:right;">March 2020 – Present</span><br>
 [Serratus](https://serratus.io)
 
 - Designed+developed [serratus.io](https://serratus.io), a web interface to explore earth's viruses based on petabase-scale sequencing results
 - Built ~70GB database of analysis results for public consumption using a parallelized AWS Lambda ingestion approach
-- Extracted geospatial info from all 16m+ BioSample submissions to create an interactive map at [serratus.io/geo](https://serratus.io/geo)
+- Extracted geospatial info from 2m+ BioSample submissions to create an interactive map at [serratus.io/geo](https://serratus.io/geo)
 - Created Flask API for connecting database to website
 - Implemented code checks on 4 git repositories via GitHub Actions; automated deployments for website and API
+- Authored/organized documentation hosted on GitHub repository wikis
 
 **Bioinformatics Research Assistant**<span style="float:right;">May 2016 – Aug 2019</span><br>
 [Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
