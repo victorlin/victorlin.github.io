@@ -19,14 +19,10 @@ University of Florida, GPA 3.84/4.0
 
 ## INDUSTRY & RESEARCH EXPERIENCE
 
-**Software Engineer**<span style="float:right;">Aug 2019 – Present</span><br>
-[Microsoft](https://www.microsoft.com), Redmond, WA
+**Full Stack Developer**<span style="float:right;">November 2021 – Present</span><br>
+[Bedford Lab](https://bedford.io/), Fred Hutchinson Cancer Research Center, Seattle, WA
 
-- Team: Microsoft Security Response Center (MSRC) Engineering - provides internal tooling for security analysts to fight digital threats to our company
-- Spearheaded deployment of 10+ Azure resources to various clouds in line with standards for the JEDI customer
-- Implemented parser/converter translating 100+ production-level automation workflows from JSON to PowerShell script for a next-generation workflow engine
-- Mitigated/resolved customer issues with our services during weekly on-call rotation
-- Authored/organized user guides and internal team documentation (TSGs, SOPs) in Markdown format
+- Assisted development of [Nextstrain](https://nextstrain.org), an open-source platform for real-time tracking of pathogen evolution
 
 **Contributor**<span style="float:right;">March 2020 – Present</span><br>
 [Serratus](https://serratus.io)
@@ -37,6 +33,15 @@ University of Florida, GPA 3.84/4.0
 - Created Flask API for connecting database to website
 - Implemented code checks on 4 git repositories via GitHub Actions; automated deployments for website and API
 - Authored/organized documentation hosted on GitHub repository wikis
+
+**Software Engineer**<span style="float:right;">Aug 2019 – Nov 2021</span><br>
+[Microsoft](https://www.microsoft.com), Redmond, WA
+
+- Team: Microsoft Security Response Center (MSRC) Engineering - provides internal tooling for security analysts to fight digital threats to our company
+- Spearheaded deployment of 10+ Azure resources to various clouds in line with standards for the JEDI customer
+- Implemented parser/converter translating 100+ production-level automation workflows from JSON to PowerShell script for a next-generation workflow engine
+- Mitigated/resolved customer issues with our services during weekly on-call rotation
+- Authored/organized user guides and internal team documentation (TSGs, SOPs) in Markdown format
 
 **Bioinformatics Research Assistant**<span style="float:right;">May 2016 – Aug 2019</span><br>
 [Lab of Dr. Lei Zhou](https://zhoulab.us), University of Florida
