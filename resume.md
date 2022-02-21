@@ -101,10 +101,8 @@ Ranked 1<sup>st</sup> of 35 hackers in national Capture-the-Flag style informati
 
 ## PUBLICATIONS
 
+Edgar, R. C., Taylor, J., **Lin, V.**, ...<br>
+*[Petabase-scale sequence alignment catalyses viral discovery](https://www.nature.com/articles/s41586-021-04332-2)*. Nature. 2022.
+
 Sundaresan, V., **Lin, V.**, Liang, F., ...<br>
 *[Significantly Mutated Genes and Regulatory Pathways in SCLC – A Meta-analysis](https://www.sciencedirect.com/science/article/pii/S2210776217302247)*. Cancer Genetics. 2017.
-
-## PREPRINTS
-
-Edgar, R. C., Taylor, J., **Lin, V.**, ...<br>
-*[Petabase-scale sequence alignment catalyses viral discovery](https://www.biorxiv.org/content/10.1101/2020.08.07.241729v2)*. bioRxiv. 2021.
