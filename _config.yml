@@ -31,6 +31,7 @@ sass:
 analytics: UA-109654720-1
 
 exclude:
+  - "vendor/"
   - "node_modules"
   - "gulpfile.js"
   - "package.json"
