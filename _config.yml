@@ -30,4 +30,8 @@ sass:
 
 analytics: UA-109654720-1
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude:
+  - "node_modules"
+  - "gulpfile.js"
+  - "package.json"
+  - "yarn.lock"
