@@ -10,6 +10,8 @@ and hobbies change often. Lately it's been:
 
 - teaching and performing diabolo
 - riding electric unicycle
+- playing with my cat
+- playing games on a free trial of Apple Arcade
 - making better use of technology
 - improving my Chinese
 - browsing Wikipedia
