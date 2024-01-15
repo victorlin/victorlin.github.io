@@ -3,18 +3,20 @@ layout: page
 title: About
 ---
 
+*Last updated January 2024*
+
 I'm not sure what to put here. Professional things are on my [resume](/resume),
-and hobbies change too quickly.
+and hobbies change often. Lately it's been:
 
-I rely on technology a lot, so maybe a list of what I'm
-currently[*](https://github.com/victorlin/victorlin.github.io/blame/main/about.md)
-using will say something about me. And maybe it'll be kept up to date.
+- teaching and performing diabolo
+- riding electric unicycle
+- making better use of technology
+- improving my Chinese
+- browsing Wikipedia
+- for the first time in my life, reading just to read and not under the influence of education systems
 
-- [Mac Mini 2020](https://support.apple.com/kb/SP823)
-- [Macbook Air 2022](https://support.apple.com/kb/SP869)
-- [iPad Pro 10.5-inch](https://support.apple.com/kb/SP762?locale=en_US)
-- [iPhone 13 mini](https://support.apple.com/kb/SP847)
-- [Garmin vívoactive® 4S](https://www.garmin.com/en-US/p/643399)
-- [GoPro HERO 11](https://gopro.com/en/us/shop/cameras/hero11-black/CHDHX-111-master.html)
-- [GoPro MAX](https://gopro.com/en/us/shop/cameras/max/CHDHZ-202-master.html)
-- [InMotion V10F](https://www.euco.us/products/inmotion-v10-electric-unicycle)
+Books that I'm currently reading and maybe will never finish:
+
+- "Exhalation: Stories" by Ted Chiang
+- "The Worlds I See" by Dr. Fei-Fei Li
+- "One, Two, Three... Infinity" by George Gamow
